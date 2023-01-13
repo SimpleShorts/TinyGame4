@@ -79,5 +79,9 @@ DerivedDataCache/*
 #Windows builds
 Windows/*
 
-#Static Starter Content
+#Static Content Packs
 Content/StarterContent/*
+Content/Stylized_Egypt/*
+Content/StackOBot/*
+
+
